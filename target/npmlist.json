@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"hulu-clone","dependencies":{"@heroicons/react":{"version":"1.0.3"},"next":{"version":"11.0.1"},"node-fetch":{"version":"2.6.1"},"react-dom":{"version":"17.0.2"},"react-flip-move":{"version":"3.0.4"},"react":{"version":"17.0.2"},"tailwind-scrollbar-hide":{"version":"1.0.3"}}}
